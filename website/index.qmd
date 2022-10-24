@@ -22,6 +22,6 @@ about:
 
 # **Apresentação**
 
-Doutor em Ciência Política pela UFMG e pesquisador do Centro de Estudos do Comportamento Político (CECOMP). Cientista de dados no OddsPointer e professor temporário no IFRS Rio Grande. Atuou como pesquisador na Diretoria de Políticas Públicas da Fundação João Pinheiro (FJP). Possui mestrado e bacharelado em Ciências Sociais (Ciência Política) pela UFJF. Áreas de interesse: Eleições, Comportamento Político, Opinião Pública, Ciências Sociais Computacionais, Metodologia de Pesquisa e Transparência nas Ciências Sociais. Atualmente cursa o MBA em Data Science e Analytics na USP ESALQ
+Doutor em Ciência Política pela UFMG e pesquisador do Centro de Estudos do Comportamento Político (CECOMP). Cientista de dados no OddsPointer e professor temporário no IFRS Rio Grande. Atuou como pesquisador na Diretoria de Políticas Públicas da Fundação João Pinheiro (FJP). Possui mestrado e bacharelado em Ciências Sociais (Ciência Política) pela UFJF. Áreas de interesse: Eleições, Comportamento Político, Opinião Pública, Ciências Sociais Computacionais, Metodologia de Pesquisa e Transparência nas Ciências Sociais. Atualmente cursa o MBA em Data Science e Analytics na USP ESALQ.
 
 <!-- quarto publish quarto-pub -->
