@@ -3,7 +3,18 @@ project:
 
 website:
   title: "Matheus Ferreira"
+  sidebar:
+    tools:
+      - icon: twitter
+        href: https://twitter.com/matferreira19
+      - icon: github
+        href: https://github.com/mathpol
+      - icon: linkedin
+        href: https://www.linkedin.com/in/matheus-ferreira-20417916/
+      - icon: mailbox
+        href: mailto:ferreira.dcp@gmail.com
   navbar:
+    search: true
     left:
       - href: index.qmd
         text: Home
@@ -11,6 +22,12 @@ website:
         text: Research
       - href: media.qmd
         text: Media
+      - href: experiencia.qmd
+        text: Job Experience
+      - href: education.qmd
+        text: Education
+      - text: CV
+        href: https://drive.google.com/file/d/1-SNhRy6TVPA5ipUJVhv6483ioPgGiaOE/view?usp=sharing
 
 format:
   html:

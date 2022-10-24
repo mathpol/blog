@@ -1,5 +1,75 @@
 [
   {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Educação",
+    "section": "",
+    "text": "(10/2022 - 04/2024)"
+  },
+  {
+    "objectID": "education.html#doutorado-em-ciência-política-ufmg",
+    "href": "education.html#doutorado-em-ciência-política-ufmg",
+    "title": "Educação",
+    "section": "Doutorado em Ciência Política (UFMG)",
+    "text": "Doutorado em Ciência Política (UFMG)\n(03/2018 - 09/2022)"
+  },
+  {
+    "objectID": "education.html#mestrado-em-ciências-sociais-ufjf",
+    "href": "education.html#mestrado-em-ciências-sociais-ufjf",
+    "title": "Educação",
+    "section": "Mestrado em Ciências Sociais (UFJF)",
+    "text": "Mestrado em Ciências Sociais (UFJF)"
+  },
+  {
+    "objectID": "education.html#bacharel-em-ciências-sociais",
+    "href": "education.html#bacharel-em-ciências-sociais",
+    "title": "Educação",
+    "section": "Bacharel em Ciências Sociais",
+    "text": "Bacharel em Ciências Sociais"
+  },
+  {
+    "objectID": "education.html#licenciado-em-sociologia",
+    "href": "education.html#licenciado-em-sociologia",
+    "title": "Educação",
+    "section": "Licenciado em Sociologia",
+    "text": "Licenciado em Sociologia"
+  },
+  {
+    "objectID": "experiencia.html",
+    "href": "experiencia.html",
+    "title": "Experiência Profissional",
+    "section": "",
+    "text": "(03/2018 - atual)\nAtuo no campo de pesquisa sobre Opinião Pública e os diversos tipos de comportamento político, especialmente o eleitoral. Minha tese de doutorado explorou a relação entre religião evangélica e voto nas eleições de 2018 no Brasil. Baixe a tese clicando aqui"
+  },
+  {
+    "objectID": "experiencia.html#oddspointer",
+    "href": "experiencia.html#oddspointer",
+    "title": "Experiência Profissional",
+    "section": "OddsPointer",
+    "text": "OddsPointer\n(03/2022 - atual)\nResponsável pela análise de dados eleitorais, utilizando modelagem bayesiana, machine learning e forecasting."
+  },
+  {
+    "objectID": "experiencia.html#instituto-federal-do-rio-grande-do-sul",
+    "href": "experiencia.html#instituto-federal-do-rio-grande-do-sul",
+    "title": "Experiência Profissional",
+    "section": "Instituto Federal do Rio Grande do Sul",
+    "text": "Instituto Federal do Rio Grande do Sul\n(07/2022 - atual)\nProfessor de Sociologia em 15 turmas dos Cursos Técnicos Integrados."
+  },
+  {
+    "objectID": "experiencia.html#fundação-joão-pinheiro",
+    "href": "experiencia.html#fundação-joão-pinheiro",
+    "title": "Experiência Profissional",
+    "section": "Fundação João Pinheiro",
+    "text": "Fundação João Pinheiro\n(10/2021 - 07/2022)\nAvaliei a efetividade de políticas públicas do Estado de Minas Gerais, especialmente aquelas com impacto na Educação. Recentemente trabalhei com análise de efetividade do programa Minas Comunica II, utilizando dados secundários de diversas fontes (dados do INEP e do Índice Mineiro de Responsabilidade Social). Também contribuí para o programa de Transformação Digital, que desenvolve rotinas de programação para gestão de dados da Fundação."
+  },
+  {
+    "objectID": "experiencia.html#universidade-federal-de-juiz-de-fora-ufjf",
+    "href": "experiencia.html#universidade-federal-de-juiz-de-fora-ufjf",
+    "title": "Experiência Profissional",
+    "section": "Universidade Federal de Juiz de Fora (UFJF)",
+    "text": "Universidade Federal de Juiz de Fora (UFJF)\n(07/2018 - 12/2018)\nProfessor de três disciplinas: “Introdução à Ciência Política”, “Políticas Públicas e Sociedade” e “Estudos Culturais”."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Matheus Ferreira",

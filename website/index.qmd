@@ -13,10 +13,15 @@ about:
     - text: GitHub
       href: https://github.com/mathpol
     - text: Email
-      href: ferreira.dcp@gmail.com
+      href: mailto:ferreira.dcp@gmail.com
+    - text: Lattes
+      href: http://lattes.cnpq.br/1749611392497058
+    - text: CV
+      href: https://drive.google.com/file/d/1-SNhRy6TVPA5ipUJVhv6483ioPgGiaOE/view?usp=sharing
 ---
 
-# Apresentação
+# **Apresentação**
 
 Doutor em Ciência Política pela UFMG e pesquisador do Centro de Estudos do Comportamento Político (CECOMP). Cientista de dados no OddsPointer e professor temporário no IFRS Rio Grande. Atuou como pesquisador na Diretoria de Políticas Públicas da Fundação João Pinheiro (FJP). Possui mestrado e bacharelado em Ciências Sociais (Ciência Política) pela UFJF. Áreas de interesse: Eleições, Comportamento Político, Opinião Pública, Ciências Sociais Computacionais, Metodologia de Pesquisa e Transparência nas Ciências Sociais. Atualmente cursa o MBA em Data Science e Analytics na USP ESALQ
 
+<!-- quarto publish quarto-pub -->

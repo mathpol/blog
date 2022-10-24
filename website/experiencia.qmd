@@ -1,0 +1,28 @@
+---
+title: "Experiência Profissional"
+---
+
+## **Centro de Estudos do Comportamento Político**
+(03/2018 - atual)
+
+Atuo no campo de pesquisa sobre Opinião Pública e os diversos tipos de comportamento político, especialmente o eleitoral. Minha tese de doutorado explorou a relação entre religião evangélica e voto nas eleições de 2018 no Brasil. Baixe a tese clicando [aqui](https://drive.google.com/file/d/1bReOqINuA9MNKWw3DTVTIul-TG_SGWhH/view?usp=sharing)
+
+## **OddsPointer** 
+(03/2022 - atual)
+
+Responsável pela análise de dados eleitorais, utilizando modelagem bayesiana, machine learning e forecasting.
+
+## **Instituto Federal do Rio Grande do Sul**
+(07/2022 - atual)
+
+Professor de Sociologia em 15 turmas dos Cursos Técnicos Integrados.
+
+## **Fundação João Pinheiro** 
+(10/2021 - 07/2022)
+
+Avaliei a efetividade de políticas públicas do Estado de Minas Gerais, especialmente aquelas com impacto na Educação. Recentemente trabalhei com análise de efetividade do programa Minas Comunica II, utilizando dados secundários de diversas fontes (dados do INEP e do Índice Mineiro de Responsabilidade Social). Também contribuí para o programa de Transformação Digital, que desenvolve rotinas de programação para gestão de dados da Fundação.
+
+## **Universidade Federal de Juiz de Fora (UFJF)**
+(07/2018 - 12/2018)
+
+Professor de três disciplinas: "Introdução à Ciência Política", "Políticas Públicas e Sociedade" e "Estudos Culturais".
