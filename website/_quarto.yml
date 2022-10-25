@@ -20,14 +20,14 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      - href: media.qmd
-        text: Media
       - href: experiencia.qmd
         text: Job Experience
       - href: education.qmd
         text: Education
       - text: CV
         href: https://drive.google.com/file/d/1-SNhRy6TVPA5ipUJVhv6483ioPgGiaOE/view?usp=sharing
+      - href: media.qmd
+        text: Media
 
 format:
   html:

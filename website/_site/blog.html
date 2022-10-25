@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Matheus Ferreira - Education</title>
+<title>Matheus Ferreira - Blog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -58,10 +60,40 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
-</head>
+<link rel="alternate" type="application/rss+xml" title="Matheus Ferreira" href="blog.xml"></head>
 
 <body class="nav-sidebar floating nav-fixed">
 
@@ -88,11 +120,15 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./media.html">
+ <span class="menu-text">Media</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./experiencia.html">
  <span class="menu-text">Job Experience</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./education.html" aria-current="page">
+    <a class="nav-link" href="./education.html">
  <span class="menu-text">Education</span></a>
   </li>  
   <li class="nav-item">
@@ -100,8 +136,8 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./media.html">
- <span class="menu-text">Media</span></a>
+    <a class="nav-link active" href="./blog.html" aria-current="page">
+ <span class="menu-text">Blog</span></a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -110,7 +146,7 @@ ul.task-list li input[type="checkbox"] {
     </nav>
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Education</h1>
+      <h1 class="quarto-secondary-nav-title">Blog</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -130,24 +166,14 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#mba-data-science-analytics-usp-esalq" id="toc-mba-data-science-analytics-usp-esalq" class="nav-link active" data-scroll-target="#mba-data-science-analytics-usp-esalq"><strong>MBA Data Science &amp; Analytics (USP ESALQ)</strong></a></li>
-  <li><a href="#doutorado-em-ciência-política-ufmg" id="toc-doutorado-em-ciência-política-ufmg" class="nav-link" data-scroll-target="#doutorado-em-ciência-política-ufmg"><strong>Doutorado em Ciência Política (UFMG)</strong></a></li>
-  <li><a href="#mestrado-em-ciências-sociais-ufjf" id="toc-mestrado-em-ciências-sociais-ufjf" class="nav-link" data-scroll-target="#mestrado-em-ciências-sociais-ufjf"><strong>Mestrado em Ciências Sociais (UFJF)</strong></a></li>
-  <li><a href="#bacharel-em-ciências-sociais-ufjf" id="toc-bacharel-em-ciências-sociais-ufjf" class="nav-link" data-scroll-target="#bacharel-em-ciências-sociais-ufjf"><strong>Bacharel em Ciências Sociais (UFJF)</strong></a></li>
-  <li><a href="#licenciado-em-sociologia-ufjf" id="toc-licenciado-em-sociologia-ufjf" class="nav-link" data-scroll-target="#licenciado-em-sociologia-ufjf"><strong>Licenciado em Sociologia (UFJF)</strong></a></li>
-  </ul>
-</nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Education</h1>
+<h1 class="title d-none d-lg-block">Blog</h1>
 </div>
 
 
@@ -162,32 +188,31 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="mba-data-science-analytics-usp-esalq" class="level2">
-<h2 class="anchored" data-anchor-id="mba-data-science-analytics-usp-esalq"><strong>MBA Data Science &amp; Analytics (USP ESALQ)</strong></h2>
-<p>(10/2022 - 04/2024)</p>
-<p>Acompanhe o curso pelo repositório no <a href="https://github.com/mathpol/Data-Sci-Analytics-MBA-USP">GitHub</a></p>
-</section>
-<section id="doutorado-em-ciência-política-ufmg" class="level2">
-<h2 class="anchored" data-anchor-id="doutorado-em-ciência-política-ufmg"><strong>Doutorado em Ciência Política (UFMG)</strong></h2>
-<p>(03/2018 - 09/2022)</p>
-<p>Clique <a href="https://drive.google.com/file/d/1bReOqINuA9MNKWw3DTVTIul-TG_SGWhH/view?usp=sharing">aqui</a> para baixar a tese de doutorado.</p>
-</section>
-<section id="mestrado-em-ciências-sociais-ufjf" class="level2">
-<h2 class="anchored" data-anchor-id="mestrado-em-ciências-sociais-ufjf"><strong>Mestrado em Ciências Sociais (UFJF)</strong></h2>
-<p>(03/2014 - 09/2016)</p>
-</section>
-<section id="bacharel-em-ciências-sociais-ufjf" class="level2">
-<h2 class="anchored" data-anchor-id="bacharel-em-ciências-sociais-ufjf"><strong>Bacharel em Ciências Sociais (UFJF)</strong></h2>
-<p>(03/2009 - 04/2013)</p>
-</section>
-<section id="licenciado-em-sociologia-ufjf" class="level2">
-<h2 class="anchored" data-anchor-id="licenciado-em-sociologia-ufjf"><strong>Licenciado em Sociologia (UFJF)</strong></h2>
-<p>(03/2009 - 04/2013)</p>
+<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>teste</p>
+</div>
+</div>
 
 
-</section>
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

@@ -2,7 +2,12 @@
 title: "Research"
 ---
 
-## **Artigos publicados**
+## **Artigos**
+
+::: panel-tabset
+
+
+### **Publicados**
 
 1. FERREIRA, MATHEUS GOMES MENDONÇA; FUKS, MARIO . O hábito de frequentar cultos como mecanismo de mobilização eleitoral: o voto evangélico em Bolsonaro em 2018. REVISTA BRASILEIRA DE CIÊNCIA POLÍTICA, v. X, p. 1, 2021.
 
@@ -19,7 +24,26 @@ Citações:1
 
 7. RIOS, C. ; PEDROSA, D. ; FERREIRA, M. G. M. ; MACIEL, R. ; RODRIGUES, T. M. ; ASSIS, W. . PARLAMENTO JOVEM 2010: EDUCAÇÃO POLÍTICA EM PERSPECTIVA. CSONLINE (UFJF), v. 1, p. 153-168, 2011.
 
+### **Submetidos**
 
-## **Capítulos de livros publicados**
+1. **[Under Review]** Cross and SwCross and Sword:Religious Backlash and Populism in Brazil’s 2018 Electoral Crusadeord:Religious Backlash and Populism in Brazil’s 2018 Electoral Crusade.
+
+2. **[Under Review]** Religião, Sexo e Cor/Raça: nuances do efeito da identidade evangélica sobre o voto em Bolsonaro em 2018.
+
+:::
+
+
+## **Capítulos de livros**
+
+::: panel-tabset
+
+
+### **Publicados**
 
 1. TAMAKI, E. R. ; MENDONCA, R. F. ; FERREIRA, M. G. M. . The Symbolic Construction of a Messiah: Jair Bolsonaro's Public, Christian Discourse. In: Ofer Feldman. (Org.). When Politicians Talk: The Cultural Dynamics of Public Speaking. 1ed.Singapore: Springer, 2021, v. , p. 1-.
+
+
+### **Submetidos**
+
+
+:::
