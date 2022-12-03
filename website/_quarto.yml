@@ -17,17 +17,19 @@ website:
     search: true
     left:
       - href: index.qmd
-        text: Home
+        text: Apresentação
       - href: research.qmd
-        text: Research
+        text: Publicações
       - href: experiencia.qmd
-        text: Job Experience
+        text: Experiência
       - href: education.qmd
-        text: Education
+        text: Formação
       - text: CV
         href: https://drive.google.com/file/d/1-SNhRy6TVPA5ipUJVhv6483ioPgGiaOE/view?usp=sharing
       - href: media.qmd
-        text: Media
+        text: Mídias
+      - href: award.qmd
+        text: Prêmios
 
 format:
   html:

@@ -1,29 +1,27 @@
 ---
-title: "Education"
+title: "Formação"
 ---
 
 
-## **MBA Data Science & Analytics (USP ESALQ)**
+::: panel-tabset
 
-(10/2022 - 04/2024)
+### **Pós-graduação**
 
-Acompanhe o curso pelo repositório no [GitHub](https://github.com/mathpol/Data-Sci-Analytics-MBA-USP)
-
-## **Doutorado em Ciência Política (UFMG)**
-
-(03/2018 - 09/2022)
-
-Clique [aqui](https://drive.google.com/file/d/1bReOqINuA9MNKWw3DTVTIul-TG_SGWhH/view?usp=sharing) para baixar a tese de doutorado.
+* **(10/2022 - 04/2024)** [MBA Data Science & Analytics](https://github.com/mathpol/Data-Sci-Analytics-MBA-USP) (USP ESALQ)
 
 
-## **Mestrado em Ciências Sociais (UFJF)**
+* **(03/2018 - 09/2022)** [Doutorado em Ciência Política (UFMG)](https://drive.google.com/file/d/1bReOqINuA9MNKWw3DTVTIul-TG_SGWhH/view?usp=sharing) 
 
-(03/2014 - 09/2016)
 
-## **Bacharel em Ciências Sociais (UFJF)**
+* **(03/2014 - 09/2016)** Mestrado em Ciências Sociais (UFJF)
 
-(03/2009 - 04/2013)
 
-## **Licenciado em Sociologia (UFJF)**
 
-(03/2009 - 04/2013)
+### **Graduação**
+
+
+* **(03/2009 - 04/2013)** Bacharel em Ciências Sociais (UFJF)
+
+* **(03/2009 - 04/2013)** Licenciado em Sociologia (UFJF)
+
+:::

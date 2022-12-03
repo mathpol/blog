@@ -1,6 +1,14 @@
 ---
-title: "Job Experience"
+title: "Experiência Profissional"
 ---
+
+
+
+
+## **Incentiv.me**
+(10/2022 - atual)
+
+Pesquisador CNPq SET-C. Realizo análises em conjuntos de dados para extrair insights que ajudarão na tomada de decisão da equipe; estudo os projetos sociais objetos do projeto de pesquisa; auxilio no desenvolvimento de artigos científicos sobre mensuração de impacto social, como também na seleção das métricas e indicadores para os projetos sociais e no desenvolvimento de novas técnicas de monitoramento e avaliação de projetos sociais. [Incentiv.me](https://site.incentiv.me/)
 
 
 ## **Centro de Estudos do Comportamento Político**

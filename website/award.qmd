@@ -1,0 +1,20 @@
+---
+title: "Prêmios e bolsas"
+---
+
+::: panel-tabset
+
+### **Awards**
+
+* **(2022)** Melhor trabalho geral no VII Fórum Brasileiro de Pós-Graduação em Ciência
+Política
+
+* **(2022)** Melhor trabalho no GT de Cultura e Comportamento Político no VII Fórum
+Brasileiro de Pós-GRaduação em Ciência Política
+
+### **Grants**
+
+* **(2022)** Catalyst Grant for Advancing Transparent, Reproducible, and Ethical Re-
+search - Berkeley Initiative for Transparency in the Social Sciences (BITSS).
+
+:::
