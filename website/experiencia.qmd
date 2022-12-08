@@ -2,8 +2,9 @@
 title: "Experiência Profissional"
 ---
 
+::: panel-tabset
 
-
+# **Vínculos ativos**
 
 ## **Incentiv.me**
 (10/2022 - atual)
@@ -16,13 +17,19 @@ Pesquisador CNPq SET-C. Realizo análises em conjuntos de dados para extrair ins
 
 Atuo no campo de pesquisa sobre Opinião Pública e os diversos tipos de comportamento político, especialmente o eleitoral. Minha tese de doutorado explorou a relação entre religião evangélica e voto nas eleições de 2018 no Brasil. Baixe a tese clicando [aqui](https://drive.google.com/file/d/1bReOqINuA9MNKWw3DTVTIul-TG_SGWhH/view?usp=sharing)
 
+[Twitter](https://twitter.com/cecomp_br) | [Facebook](https://www.facebook.com/CeComPolitico)
+
+
+
+# **Vínculos encerrados**
+
 ## **OddsPointer** 
-(03/2022 - atual)
+(03/2022 - 10/2022)
 
 Responsável pela análise de dados eleitorais, utilizando modelagem bayesiana, machine learning e forecasting.
 
 ## **Instituto Federal do Rio Grande do Sul**
-(07/2022 - atual)
+(07/2022 - 12/2022)
 
 Professor de Sociologia em 15 turmas dos Cursos Técnicos Integrados.
 
@@ -45,3 +52,5 @@ Professor de Sociologia para turmas do Ensino Médio da Educação Básica.
 (02/2016 - 12/2017)
 
 Professor de Sociologia e Filosofia para turmas do Ensino Médio e Fundamental da Educação Básica.
+
+:::
