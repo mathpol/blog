@@ -30,6 +30,8 @@ website:
         text: Mídias
       - href: award.qmd
         text: Prêmios
+      - href: parecerista.qmd
+        text: Parecerista
 
 format:
   html:
