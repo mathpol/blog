@@ -31,7 +31,7 @@ website:
       - href: award.qmd
         text: Prêmios
       - href: parecerista.qmd
-        text: Parecerista
+        text: Bancas e Pareceres
 
 format:
   html:

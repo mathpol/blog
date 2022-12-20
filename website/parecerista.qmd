@@ -1,10 +1,23 @@
 ---
-title: "Pareceres"
+title: "Bancas e Pareceres"
 ---
 
+
+::: panel-tabset
+
+### **Bancas**
+
+* AQUINO, J. A.; FUKS, M.; **FERREIRA, M. G. M.**; SILVA, T. M.. Participação em banca de Isabel de Assis Melo. Geração e interesse por política: há efeito de coorte no interesse por política dos brasileiros? Dissertação de Mestrado (Mestrado em Ciência Política) - Universidade Federal de Minas Gerais.
+
+* DIAS, A. K. M.; **FERREIRA, M. G. M.**; FUKS, M.. Participação em banca de Eduardo Ryô Tamaki.Brasi ou o Povo acima de tudo? Uma análise do populismo nos discursos de campanha de Bolsonaro em 2018. 2019. Trabalho de Conclusão de Curso (Graduação em Abi - Ciências Sociais) - Universidade Federal de Minas Gerais.
+
+
+### **Pareceres**
 
 * [Revista Dados](http://dados.iesp.uerj.br/)
 
 * [Revista Brasileira de Ciência Política (RBCP)](https://www.scielo.br/j/rbcpol/)
 
 * [Primeiros Estudos Revista de Ciências Sociais](https://www.revistas.usp.br/wp/revistas-de-a-z/primeiros-estudos-revista-de-graduacao-em-ciencias-sociais/)
+
+:::
