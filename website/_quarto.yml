@@ -3,6 +3,12 @@ project:
 
 website:
   title: "Matheus Ferreira"
+  twitter-card: true
+  open-graph: true
+  cookie-consent:
+    type: express
+    style: simple
+    palette: dark
   sidebar:
     tools:
       - icon: twitter
@@ -35,9 +41,8 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
+    linkcolor: "#2171b5"
     css: styles.css
     toc: true
-
-
 
