@@ -1,7 +1,7 @@
 ---
 title: "Matheus Ferreira"
 size: 12
-image: imagens/eu.JPEG
+image: imagens/eu2.JPG
 about: 
   template: trestles
   image-shape: round
@@ -23,6 +23,6 @@ about:
 
 # **Apresentação**
 
-Pesquisador CNPq SET-C na [INCENTIV.ME](https://site.incentiv.me/). Doutor em Ciência Política pela [UFMG](http://ppgcp.fafich.ufmg.br/index.php) e pesquisador do Centro de Estudos do Comportamento Político ([CECOMP](https://twitter.com/cecomp_br)). Cientista de dados no [OddsPointer](https://oddspointer.com/). Atuou como pesquisador na Diretoria de Políticas Públicas da Fundação João Pinheiro ([FJP](http://fjp.mg.gov.br/agenda-diretoria-de-politicas-publicas/)) e como professor substituto na [UFJF](https://www.ufjf.br/graduacaocienciassociais/) e no [IFRS](https://ifrs.edu.br/riogrande/). Possui mestrado e bacharelado em Ciências Sociais (Ciência Política) pela UFJF. Áreas de interesse: Eleições, Comportamento Político, Opinião Pública, Ciências Sociais Computacionais, Metodologia de Pesquisa e Transparência nas Ciências Sociais. Atualmente cursa o MBA em Data Science e Analytics na USP ESALQ.
+Bolsista de Pós-Doutorado na UFSC (FAPESC - CNPq). Doutor em Ciência Política pela [UFMG](http://ppgcp.fafich.ufmg.br/index.php) e pesquisador do Centro de Estudos do Comportamento Político ([CECOMP - UFMG](https://twitter.com/cecomp_br)) e do Núcleo Interdisciplinar de Políticas Públicas ([NIPP - UFSC](https://nipp.ufsc.br/)). Atuou como cientista de dados na [Incentiv](https://incentiv.me/), no [OddsPointer](https://oddspointer.com/) e como pesquisador na Diretoria de Políticas Públicas da Fundação João Pinheiro ([FJP](http://fjp.mg.gov.br/agenda-diretoria-de-politicas-publicas/)). Atuou como professor substituto na [UFJF](https://www.ufjf.br/graduacaocienciassociais/) e no [IFRS](https://ifrs.edu.br/riogrande/). Possui mestrado e bacharelado em Ciências Sociais (Ciência Política) pela UFJF. Áreas de interesse: Eleições, Comportamento Político, Opinião Pública, Ciências Sociais Computacionais, Metodologia de Pesquisa e Transparência nas Ciências Sociais. Atualmente cursa o MBA em Data Science e Analytics na USP ESALQ.
 
 <!-- quarto publish quarto-pub -->

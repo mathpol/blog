@@ -6,13 +6,14 @@ title: "Experiência Profissional"
 
 # **Vínculos ativos**
 
-## **Incentiv.me**
-(10/2022 - atual)
 
-Pesquisador CNPq SET-C. Realizo análises em conjuntos de dados para extrair insights que ajudarão na tomada de decisão da equipe; estudo os projetos sociais objetos do projeto de pesquisa; auxilio no desenvolvimento de artigos científicos sobre mensuração de impacto social, como também na seleção das métricas e indicadores para os projetos sociais e no desenvolvimento de novas técnicas de monitoramento e avaliação de projetos sociais. [Incentiv.me](https://site.incentiv.me/)
+## **Núcleo Interdisciplinar em Políticas Públicas (NIPP - UFSC)**
+(06/2023 - atual)
+
+Desenvolve pesquisa sobre Clivagens Políticas na América Latina, compreendendo seus determinantes e efeitos para a democracia e o comportamento político dos eleitores.
 
 
-## **Centro de Estudos do Comportamento Político**
+## **Centro de Estudos do Comportamento Político (CECOMP - UFMG)**
 (03/2018 - atual)
 
 Atuo no campo de pesquisa sobre Opinião Pública e os diversos tipos de comportamento político, especialmente o eleitoral. Minha tese de doutorado explorou a relação entre religião evangélica e voto nas eleições de 2018 no Brasil. Baixe a tese clicando [aqui](https://drive.google.com/file/d/1bReOqINuA9MNKWw3DTVTIul-TG_SGWhH/view?usp=sharing)
@@ -22,6 +23,13 @@ Atuo no campo de pesquisa sobre Opinião Pública e os diversos tipos de comport
 
 
 # **Vínculos encerrados**
+
+
+## **Incentiv.me**
+(10/2022 - 04/2023)
+
+Pesquisador CNPq SET-C. Realizo análises em conjuntos de dados para extrair insights que ajudarão na tomada de decisão da equipe; estudo os projetos sociais objetos do projeto de pesquisa; auxilio no desenvolvimento de artigos científicos sobre mensuração de impacto social, como também na seleção das métricas e indicadores para os projetos sociais e no desenvolvimento de novas técnicas de monitoramento e avaliação de projetos sociais. [Incentiv.me](https://site.incentiv.me/)
+
 
 ## **OddsPointer** 
 (03/2022 - 10/2022)
