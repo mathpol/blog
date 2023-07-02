@@ -1,7 +1,7 @@
 ---
 title: "Matheus Ferreira"
 size: 12
-image: imagens/eu2.JPG
+image: imagens/eu3.JPEG
 about: 
   template: trestles
   image-shape: round
@@ -18,7 +18,7 @@ about:
     - text: Lattes
       href: http://lattes.cnpq.br/1749611392497058
     - text: CV
-      href: https://drive.google.com/file/d/1-SNhRy6TVPA5ipUJVhv6483ioPgGiaOE/view?usp=sharing
+      href: https://drive.google.com/file/d/1GmAlq_iBww2Jx0nakCj_ZvY_U38BTaBd/view?usp=sharing
 ---
 
 # **Apresentação**
