@@ -32,10 +32,7 @@ website:
         text: Mídias
       - href: award.qmd
         text: Prêmios
-      - href: parecerista.qmd
-        text: Bancas e Pareceres
-      - href: avisos.qmd
-        text: Avisos
+
 
 format:
   html:

@@ -1,7 +1,7 @@
 ---
 title: "Matheus Ferreira"
 size: 12
-image: imagens/eu3.JPEG
+image: imagens/eu6.JPEG
 about: 
   template: trestles
   image-shape: round
