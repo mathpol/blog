@@ -7,7 +7,7 @@ title: "Formação"
 
 ### **Pós-graduação**
 
-* **(10/2022 - 04/2024)** [MBA Data Science & Analytics](https://github.com/mathpol/Data-Sci-Analytics-MBA-USP) (USP ESALQ)
+* **(10/2022 - 08/2024)** [MBA Data Science & Analytics](https://github.com/mathpol/Data-Sci-Analytics-MBA-USP) (USP ESALQ)
 
 
 * **(03/2018 - 09/2022)** [Doutorado em Ciência Política](https://repositorio.ufmg.br/handle/1843/49217)(UFMG) 

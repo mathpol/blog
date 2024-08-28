@@ -1,9 +1,9 @@
 ---
 title: "Matheus Ferreira"
 size: 12
-image: imagens/eu3.JPEG
+image: imagens/matheus2.jpg
 about: 
-  template: trestles
+  template: jolla
   image-shape: round
   image-width: 15em
   links:
@@ -23,6 +23,6 @@ about:
 
 # **Apresentação**
 
-Bolsista de Pós-Doutorado na UFSC (FAPESC - CNPq). Doutor em Ciência Política pela [UFMG](http://ppgcp.fafich.ufmg.br/index.php) e pesquisador do Centro de Estudos do Comportamento Político ([CECOMP - UFMG](https://twitter.com/cecomp_br)) e do Núcleo Interdisciplinar de Políticas Públicas ([NIPP - UFSC](https://nipp.ufsc.br/)). Atuou como cientista de dados na [Incentiv](https://incentiv.me/), no [OddsPointer](https://oddspointer.com/) e como pesquisador na Diretoria de Políticas Públicas da Fundação João Pinheiro ([FJP](http://fjp.mg.gov.br/agenda-diretoria-de-politicas-publicas/)). Atuou como professor substituto na [UFJF](https://www.ufjf.br/graduacaocienciassociais/) e no [IFRS](https://ifrs.edu.br/riogrande/). Possui mestrado e bacharelado em Ciências Sociais (Ciência Política) pela UFJF. Áreas de interesse: Eleições, Comportamento Político, Opinião Pública, Ciências Sociais Computacionais, Metodologia de Pesquisa e Transparência nas Ciências Sociais. Atualmente cursa o MBA em Data Science e Analytics na USP ESALQ.
+Pesquisador (Pós-Doutorado) na UFSC (FAPESC - CNPq). Doutor em Ciência Política pela [UFMG](http://ppgcp.fafich.ufmg.br/index.php), MBA em Data Science e Analytics na [USP ESALQ](https://mbauspesalq.com/?gad_source=1&gclid=Cj0KCQjwt4a2BhD6ARIsALgH7Dq0J82CSlX8IPlByAVEc3STTvaoX97XqtQtBEIHvUvE5jtyJyJlEzEaAqxpEALw_wcB) e pesquisador do Centro de Estudos do Comportamento Político ([CECOMP - UFMG](https://twitter.com/cecomp_br)) e do Núcleo Interdisciplinar de Políticas Públicas e Opinião Pública ([NIPP - UFSC](https://nipp.ufsc.br/)). Atuou como cientista de dados na [Incentiv](https://incentiv.me/), no [IPESPE](https://ipespe.org.br/) e como pesquisador na Diretoria de Políticas Públicas da Fundação João Pinheiro ([FJP](http://fjp.mg.gov.br/agenda-diretoria-de-politicas-publicas/)). Foi professor substituto na [UFJF](https://www.ufjf.br/graduacaocienciassociais/) e no [IFRS](https://ifrs.edu.br/riogrande/).
 
 <!-- quarto publish quarto-pub -->

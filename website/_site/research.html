@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.269">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -55,7 +55,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -78,64 +79,74 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Matheus Ferreira</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Apresentação</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./research.html" aria-current="page">
+    <a class="nav-link active" href="./research.html" rel="" target="" aria-current="page">
  <span class="menu-text">Publicações</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./experiencia.html">
+    <a class="nav-link" href="./experiencia.html" rel="" target="">
  <span class="menu-text">Experiência</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./education.html">
+    <a class="nav-link" href="./education.html" rel="" target="">
  <span class="menu-text">Formação</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://drive.google.com/file/d/1-SNhRy6TVPA5ipUJVhv6483ioPgGiaOE/view?usp=sharing">
+    <a class="nav-link" href="https://drive.google.com/file/d/1-SNhRy6TVPA5ipUJVhv6483ioPgGiaOE/view?usp=sharing" rel="" target="">
  <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./media.html">
+    <a class="nav-link" href="./media.html" rel="" target="">
  <span class="menu-text">Mídias</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./award.html">
+    <a class="nav-link" href="./award.html" rel="" target="">
  <span class="menu-text">Prêmios</span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools ms-auto">
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-    <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Trabalhos Publicados</h1>
-      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
-        <i class="bi bi-chevron-right"></i>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Trabalhos Publicados</li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
     </div>
   </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
         <div class="sidebar-tools-main tools-wide">
-    <a href="https://twitter.com/matferreira19" title="" class="sidebar-tool px-1"><i class="bi bi-twitter"></i></a>
-    <a href="https://github.com/mathpol" title="" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
-    <a href="https://www.linkedin.com/in/matheus-ferreira-20417916/" title="" class="sidebar-tool px-1"><i class="bi bi-linkedin"></i></a>
-    <a href="mailto:ferreira.dcp@gmail.com" title="" class="sidebar-tool px-1"><i class="bi bi-mailbox"></i></a>
+    <a href="https://twitter.com/matferreira19" rel="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-twitter"></i></a>
+    <a href="https://github.com/mathpol" rel="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
+    <a href="https://www.linkedin.com/in/matheus-ferreira-20417916/" rel="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-linkedin"></i></a>
+    <a href="mailto:ferreira.dcp@gmail.com" rel="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-mailbox"></i></a>
 </div>
 </nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
@@ -152,7 +163,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Trabalhos Publicados</h1>
+<h1 class="title">Trabalhos Publicados</h1>
 </div>
 
 
@@ -169,11 +180,13 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="artigos" class="level2">
 <h2 class="anchored" data-anchor-id="artigos"><strong>Artigos</strong></h2>
-<div class="panel-tabset">
-<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true"><strong>Publicados</strong></a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false"><strong>Submetidos</strong></a></li></ul>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true"><strong>Publicados</strong></a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false"><strong>Aceitos</strong></a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" role="tab" aria-controls="tabset-1-3" aria-selected="false"><strong>Em andamento</strong></a></li></ul>
 <div class="tab-content">
 <div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
-<ul>
+<ol type="1">
+<li><p><strong>(2024)</strong> FERREIRA, MATHEUS GOMES MENDONÇA; DEPIN, NADINE MATTOS ; TOVAR, ERNESTO JAVIER FERNÁNDEZ ; BELOHLAVEK, OLGA DE LAFORET ; LIGOCKI, MATEUS PINTO DA LUZ ; SEIBEL, BRUNA LARISSA ; NICOLAU, THAIS LOPES . Potencial custo-efetividade: Proposta alternativa para avaliaÃ§Ã£o de projetos sociais. <strong>Revista Brasileira de Avaliação</strong>, v. 13, p.&nbsp;e130524, 2024. <a href="https://doi.org/10.4322/rbaval202412005">Link</a></p></li>
+<li><p><strong>(2024)</strong> BORBA, J. ; FERREIRA, M. G. M. ; SILVA, G. U. L. ; AMORIM, L. C. . Polarização Ideológica entre Deputados Federais no Brasil (2005-2021). <strong>ESTUDOS HISTÓRICOS</strong>, v. 37, p.&nbsp;1-28, <a href="https://periodicos.fgv.br/reh/article/view/90568">Link</a></p></li>
 <li><p><strong>(2023)</strong> FERREIRA, M. G. M. Religião, Sexo e Cor/Raça: nuances do efeito da identidade evangélica sobre o voto em Bolsonaro em 2018. <strong>Agenda Política</strong>, v. 10, n.&nbsp;3, p.&nbsp;165-191, 2022. <a href="https://www.agendapolitica.ufscar.br/index.php/agendapolitica/article/view/799">Link</a></p></li>
 <li><p><strong>(2021)</strong> FERREIRA, M. G. M.; FUKS, M. . O hábito de frequentar cultos como mecanismo de mobilização eleitoral: o voto evangélico em Bolsonaro em 2018. <strong>REVISTA BRASILEIRA DE CIÊNCIA POLÍTICA</strong>, v. X, p.&nbsp;1, 2021. <a href="https://www.scielo.br/j/rbcpol/a/fWvcZ49qvhjrpB9dNBK6sxB/?lang=pt">Link</a></p></li>
 <li><p><strong>(2021)</strong> FERREIRA, M. G. M.; PACCELI, G. . E depois do fim? Transições políticas na crise da democracia contemporânea. <strong>CONTEMPORÂNEA (ONLINE)</strong>, v. 11, p.&nbsp;702-716, 2021. <a href="https://www.contemporanea.ufscar.br/index.php/contemporanea/article/view/848">Link</a></p></li>
@@ -182,27 +195,38 @@ ul.task-list li input[type="checkbox"] {
 <li><p><strong>(2019)</strong> PACCELI, G. ; FERREIRA, M. G. M. Apresentação. <strong>CSONLINE (UFJF)</strong>, v. 1, p.&nbsp;06-08, 2019. Citações:1</p></li>
 <li><p><strong>(2016)</strong> FERREIRA, M. G. M.; TAVARES JR., F. . DE 2013 A 2016: AS RUAS E RESSIGNIFICAÇÕES POLÍTICAS. <strong>CSONLINE (UFJF)</strong>, v. 1, p.&nbsp;43, 2016.</p></li>
 <li><p><strong>(2011)</strong> RIOS, C.; PEDROSA, D.; FERREIRA, M. G. M.; MACIEL, R.; RODRIGUES, T. M.; ASSIS, W. PARLAMENTO JOVEM 2010: EDUCAÇÃO POLÍTICA EM PERSPECTIVA. <strong>CSONLINE (UFJF)</strong>, v. 1, p.&nbsp;153-168, 2011.</p></li>
-</ul>
+</ol>
 </div>
 <div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
-
+<ol type="1">
+<li><strong>(2025)</strong> BORBA, J.; FERREIRA, M. G. M.; SILVA; Gregório U. L. da; AMORIM; L. de C. de. Existem clivagens políticas no Brasil? <strong>DADOS Revista de Ciências Sociais</strong>.</li>
+</ol>
+</div>
+<div id="tabset-1-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-3-tab">
+<ol type="1">
+<li><p><strong>(2024)</strong> FERREIRA, M. Evangélicos e tradicionalismo no voto em Bolsonaro em 2018.</p></li>
+<li><p><strong>(2024)</strong> FERREIRA, M. Religious Leaders’ Support for Bolsonaro in 2018: Preaching to the Converted and Persuading the Opposition.</p></li>
+<li><p><strong>(2024)</strong> GUEDES-NETO, J. V.; FUKS, M. FERREIRA, M. Highway to Hell: Pro-Coup Attitudes among Religious Voters.</p></li>
+</ol>
 </div>
 </div>
 </div>
 </section>
 <section id="capítulos-de-livros" class="level2">
 <h2 class="anchored" data-anchor-id="capítulos-de-livros"><strong>Capítulos de livros</strong></h2>
-<div class="panel-tabset">
-<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-2-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-1" role="tab" aria-controls="tabset-2-1" aria-selected="true"><strong>Publicados</strong></a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-2" role="tab" aria-controls="tabset-2-2" aria-selected="false"><strong>Submetidos</strong></a></li></ul>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-2-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-1" role="tab" aria-controls="tabset-2-1" aria-selected="true"><strong>Publicados</strong></a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-2" role="tab" aria-controls="tabset-2-2" aria-selected="false"><strong>Em breve</strong></a></li></ul>
 <div class="tab-content">
 <div id="tabset-2-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-2-1-tab">
-<ul>
+<ol type="1">
 <li><p><strong>(2023)</strong> VENTURELLI, Gustavo; TAMAKI, Eduardo Ryô; FERREIRA, Matheus Gomes Mendonça. The Sharp-Tongued Loudmouth: Incivility and Debasement in Brazil’s President Jair Bolsonaro’s YouTube Livestreams. In: <strong>Debasing Political Rhetoric</strong>: Dissing Opponents, Journalists, and Minorities in Populist Leadership Communication. Singapore: Springer Nature Singapore, 2023. p.&nbsp;73-86. <a href="https://link.springer.com/chapter/10.1007/978-981-99-0894-3_5">Link</a></p></li>
 <li><p><strong>(2021)</strong> TAMAKI, E. R.; MENDONÇA, R. F.; FERREIRA, M. G. M.. The Symbolic Construction of a Messiah: Jair Bolsonaro’s Public, Christian Discourse. In: <strong>When Politicians Talk</strong>. Springer, Singapore, 2021. p.&nbsp;73-89. <a href="https://link.springer.com/chapter/10.1007/978-981-16-3579-3_5">Link</a></p></li>
-</ul>
+</ol>
 </div>
 <div id="tabset-2-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-2-2-tab">
-<p>FERREIRA, M. G. M.; FUKS, M.; SMITH, A. E. A Conversion to the Right: The Case of the 2018 Election of Jair Bolsonaro in Brazil.</p>
+<ol type="1">
+<li><strong>(2024)</strong> FERREIRA, M. G. M.; FUKS, M. ; SMITH, A. E. . A Conversion to the Right: The Case of the 2018 Election of Jair Bolsonaro in Brazil. In: Borges A, Lloyd R, Vommaro G, eds.&nbsp;The Recasting of the Latin American Right: Polarization and Conservative Reactions. Cambridge University Press; 2024. <a href="https://www.cambridge.org/core/books/recasting-of-the-latin-american-right/CCC0E4A9488EA887093CD7DAA4A9A3C9">Link</a></li>
+</ol>
 </div>
 </div>
 </div>
@@ -238,9 +262,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -305,6 +343,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
