@@ -28,8 +28,6 @@ website:
         text: Experiência
       - href: education.qmd
         text: Formação
-      - text: CV
-        href: https://drive.google.com/file/d/1-SNhRy6TVPA5ipUJVhv6483ioPgGiaOE/view?usp=sharing
       - href: media.qmd
         text: Mídias
       - href: award.qmd

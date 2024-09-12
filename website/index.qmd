@@ -17,8 +17,6 @@ about:
       href: mailto:ferreira.dcp@gmail.com
     - text: Lattes
       href: http://lattes.cnpq.br/1749611392497058
-    - text: CV
-      href: https://drive.google.com/file/d/1GmAlq_iBww2Jx0nakCj_ZvY_U38BTaBd/view?usp=sharing
 ---
 
 # **Apresentação**
